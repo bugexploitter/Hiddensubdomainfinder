@@ -14,7 +14,7 @@ banner="""
                                  |___/                                                                                             
 
                                            subfinder V1.0
-                                           Anonynorms
+                                           Bugexploitter
 
 """
 print(banner)
